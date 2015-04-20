@@ -1,0 +1,1 @@
+Android voorbeeld project voor het gebruik van de API van Avans Hogeschool. https://publicapi.avans.nl/
